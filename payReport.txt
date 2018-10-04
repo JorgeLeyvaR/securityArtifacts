@@ -1,0 +1,9 @@
+POST /HumanResources/manage/reports/pay HTTP/1.1
+Host: 52-27-203-231-humanresources.vulnerablesites.net
+Cookie: session_id=aK0CjpN6+hr8g21fiKgf1uV5h8r9oeZR7oY2BtU6hfo=
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Cache-Control: no-cache
+Postman-Token: 3fc5d41f-e886-4f62-addc-673f4a01d170
+
+recipientUsername=mtorres&recipientTitle=Test+Name+Postman&payPeriodStart=7865641315&payPeriodEnd=7865622356&payDate=12345&payType=email
