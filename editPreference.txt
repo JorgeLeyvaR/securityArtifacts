@@ -1,0 +1,9 @@
+POST /HumanResources/users/10/preferences/edit HTTP/1.1
+Host: 52-27-203-231-humanresources.vulnerablesites.net
+Cookie: session_id=aK0CjpN6+hr8g21fiKgf1uV5h8r9oeZR7oY2BtU6hfo=
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Cache-Control: no-cache
+Postman-Token: 2ba31ab7-bf94-420e-bc73-8ada4a36ee41
+
+newPassword1=12345&username=testUser2&fullName=Test+Name+Postman&cellPhoneNumber=7865641315&officePhoneNumber=7865622356&newPassword2=12345&notificationsPreference=email&contactPreference=cellPhone&addressStreet=45&addressOptional=43&addressCity=VF&addressState=GF&addressZipcode=33234
