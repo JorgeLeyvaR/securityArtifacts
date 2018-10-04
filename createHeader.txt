@@ -1,0 +1,9 @@
+POST /HumanResources/admin/users/create HTTP/1.1
+Host: 52-27-203-231-humanresources.vulnerablesites.net
+Cookie: session_id=aK0CjpN6+hr8g21fiKgf1uV5h8r9oeZR7oY2BtU6hfo=
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Cache-Control: no-cache
+Postman-Token: 51450b80-e8ea-4655-b21f-d98e8857709a
+
+password=12345&username=ncollins&fullName=D&cellNumber=7865641315&officeNumber=&manager=10&personalAddressStreet=&personalAddressOptional=&personalAddressCity=&personalAddressState=&personalAddressZipcode=&company=1&department=1&title=&salary=20000&401kWithholding=&hireDate=&ssn=&birthday=&taxableStatus=single&w2Withholdings=
