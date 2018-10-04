@@ -1,0 +1,15 @@
+POST /HumanResources/auth/login HTTP/1.1
+Host: 34-222-240-195-humanresources.vulnerablesites.net
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundary7MA4YWxkTrZu0gW
+Cache-Control: no-cache
+Postman-Token: 18cc1b76-8f84-4cf3-bf83-43d813c7acb9
+
+------WebKitFormBoundary7MA4YWxkTrZu0gW
+Content-Disposition: form-data; name="password"
+
+12345
+------WebKitFormBoundary7MA4YWxkTrZu0gW
+Content-Disposition: form-data; name="username"
+
+ncollins
+------WebKitFormBoundary7MA4YWxkTrZu0gW--
